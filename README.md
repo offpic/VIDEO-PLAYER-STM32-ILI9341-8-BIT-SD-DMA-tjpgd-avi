@@ -1,4 +1,4 @@
-**VIDEO PLAYER STM32 ILI9341 16 BIT SD DMA**
+**VIDEO PLAYER STM32 ILI9341 8 BIT SD DMA**
 
 https://www.youtube.com/watch?v=Tf-tx5SX-p4
 
